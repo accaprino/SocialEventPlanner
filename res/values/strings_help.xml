@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="help_line_1">Agenda View</string>
+    <string name="help_line_2">
+        Use the Agenda View to view all your events. Click
+        on an event to view the details of that event. Long click on an
+        event to delete that event, or to delete multiple events. Add an event by
+        clicking the New Event icon in the action bar.
+        
+    </string>
+    
+    <string name="help_line_3">Weekly View</string>
+    <string name="help_line_4">
+        Use the Weekly View to view all your events for the current week. Clicking on 
+        a particular day will bring up the New Event screen with the date
+        auto filled to the day clicked. Like in the Agenda View, add an
+        event by clicking the New Event icon in the action bar.
+    </string>
+    
+    <string name="help_line_5">New Event View</string>
+    <string name="help_line_6">
+        Use the New Event screen to add an event. Events must have a title,
+        date, start time, and end time. Add an attendee to an event
+        by clicking the Add Person icon in the action bar, which will allow
+        you to select a person from your contacts. Only contacts with
+        email addresses can be added. Save the event by clicking the
+        Save Event icon in the action bar.  
+    </string>
+    
+    <string name="help_line_7">View Event View</string>
+    <string name="help_line_8">
+        Use the View Event screen to view the details of an event. Delete the
+        event by clicking the Delete Event icon in the action bar. Edit the
+        event by clicking the Edit Event icon in the action bar. 
+    </string>
+    
+    <string name="help_line_9">Edit Event View</string>
+    <string name="help_line_10">
+        Use the Edit Event screen to edit an event. Add an attendee to an event
+        by clicking the Add Person icon in the action bar. Save the event by
+        clicking the Save Event icon in the action bar. 
+    </string>
+    
+    
+</resources>

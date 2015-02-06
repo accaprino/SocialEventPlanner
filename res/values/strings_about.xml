@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="about_line_1">Social Planner</string>
+    <string name="about_line_2">Nik Ambukovski</string>
+    <string name="about_line_3">S2008618</string>
+    <string name="about_line_4">COSC2347</string>
+    <string name="about_line_5">Mobile Application Development</string>
+    <string name="about_line_6">Assignment 1, Semester 2, 2014</string>
+    
+</resources>

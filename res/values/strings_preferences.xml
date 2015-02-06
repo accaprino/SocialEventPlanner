@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="pref_title_category_debug">Database</string>
+    <string name="pref_title_category_notifications">Notifications</string>
+    
+    <string name="pref_title_enable_database_delay">Enable Database Delay</string>
+    <string name="pref_summary_enable_database_delay">Simulates a delay in database operations</string>
+    
+    <string name="pref_title_database_delay_time">Database Delay Time</string>
+    <string name="pref_summary_database_delay_time">Seconds for the simulated database delay</string>
+    
+    <string name="pref_title_enable_notifications">Enable Notifications</string>
+    <string name="pref_summary_enable_notifications">Enables location based notifications for upcoming events </string>
+    
+    <string name="pref_title_notification_period">Notification Period</string>
+    <string name="pref_summary_notification_period">Minutes between checks for upcoming events</string>
+    
+    <string name="pref_title_notification_threshold">Notification Threshold</string>
+    <string name="pref_summary_notification_threshold">Minutes between event start time and event arrival time</string>
+    
+    <string name="pref_title_transport_mode">Transport Mode</string>
+    <string name="pref_summary_transport_mode">The mode of transport to use when calculating notification times for events </string>
+    
+    
+    <string-array name="pref_entries_database_delay">
+        <item>1 second</item>
+        <item>2 seconds</item>
+        <item>3 seconds</item>
+        <item>4 seconds</item>
+        <item>5 seconds</item>
+    </string-array>
+    
+    <string-array name="pref_entry_values_database_delay">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    
+    <string-array name="pref_entries_notification_period">
+        <item>1 minute</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+    </string-array>
+    
+    <string-array name="pref_entry_values_notification_period">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+    </string-array>
+    
+    <string-array name="pref_entries_notification_threshold">
+        <item>5 minute</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>60 minutes</item>
+    </string-array>
+    
+    <string-array name="pref_entry_values_notification_threshold">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    
+    <string-array name="pref_entries_transport_mode">
+        <item>Drive</item>
+        <item>Walk</item>
+        <item>Cycle</item>
+    </string-array>
+    
+    <string-array name="pref_entry_values_transport_mode">
+        <item>driving</item>
+        <item>walking</item>
+        <item>bicycling</item>
+    </string-array>
+    
+</resources>
